@@ -1,3 +1,5 @@
-Приложение для теста связки Qt Quick и Box 2D.
+РџСЂРёР»РѕР¶РµРЅРёРµ РґР»СЏ С‚РµСЃС‚Р° СЃРІСЏР·РєРё Qt Quick Рё Box 2D.
+РЎС‚Р°С‚СЊСЏ РЅР° С…Р°Р±СЂРµ: http://habrahabr.ru/post/133586/
 
-Разработчик: Петров Виталий aka kafeg, v31337@gmail.com. Другие проекты: http://forsk.ru, http://kellot.ru, http:/skid.kz
+Р Р°Р·СЂР°Р±РѕС‚С‡РёРє: РџРµС‚СЂРѕРІ Р’РёС‚Р°Р»РёР№ aka kafeg, v31337@gmail.com. 
+Р”СЂСѓРіРёРµ РїСЂРѕРµРєС‚С‹: http://forsk.ru, http://kellot.ru, http:/skid.kz
